@@ -1,4 +1,4 @@
-Pizza Sales Analysis
+**Pizza Sales Analysis**
 
 In this project i have utilized the sql query to solve questions that were related to pizza sales.
 
